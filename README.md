@@ -26,8 +26,8 @@ LeagueExplore est une application iOS permettant aux utilisateurs de rechercher 
 
 ## Installation
 
-1. **Cloner le Référentiel :** `git clone https://github.com/votre-utilisateur/ligue-explorer.git`
-2. **Ouvrir le Projet :** `cd ligue-explorer` puis ouvrez le fichier `LigueExplorer.xcodeproj` dans Xcode.
+1. **Cloner le Référentiel :** `git clone https://github.com/karouAhmed/LeagueExplore.git`
+2. **Ouvrir le Projet :** `cd LeagueExplore` puis ouvrez le fichier `LeagueExplore.xcodeproj` dans Xcode.
 3. **Installer les Dépendances :** Utilisez CocoaPods ou Swift Package Manager pour installer les dépendances si nécessaire.
 4. **Configurer l'API :** Assurez-vous d'avoir la clé d'API de The Sports DB et configurez-la dans le fichier approprié.
 
