@@ -11,7 +11,7 @@ import SwiftUI
 struct LeagueExploreApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView(teamsViewModel: TeamsViewModel(teamService: TeamService()), leaguesViewModel: LeaguesViewModel(leagueService: LeagueService()))
         }
     }
 }
